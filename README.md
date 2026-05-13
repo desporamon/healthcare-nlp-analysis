@@ -1,7 +1,4 @@
 # Healthcare NLP Analysis
-**Course:** CSIS 4260 — Douglas College  
-**Student:** Desmond Chua
-**Student Number:** 300369803  
 **Topic:** Healthcare IT Community Analysis — r/healthIT
 
 ---
